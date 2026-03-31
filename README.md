@@ -1,39 +1,81 @@
-# PETD — Aula 06 · Revisão e Teste
+# 🐍 [PETD] Aula 06 — Revisão Geral e Teste Prático/Teórico
 
-**Data:** 8 de maio de 2026  
-**UC:** Programação Estruturada e Tipos de Dados  
-**Curso:** CTeSP em Redes e Sistemas Informáticos · ISTEC Porto  
-**Docente:** Mário Amorim
+> Programação Estruturada e Tipos de Dados · CTeSP em Redes e Sistemas Informáticos · ISTEC Porto · 2025/2026
 
-## Conteúdos
+---
 
-- Apresentação do TP02
-- Boas práticas de código (PEP8, comentários, legibilidade)
-- Revisão geral para avaliação
-- **Teste Prático/Teórico** (40% da nota, mínimo 7,5 valores)
+## 📋 Informações da UC
 
-## Estrutura
+| Campo | Detalhe |
+|---|---|
+| **Unidade Curricular** | Programação Estruturada e Tipos de Dados (PETD) |
+| **Docente** | Mário Amorim |
+| **Curso** | CTeSP em Redes e Sistemas Informáticos |
+| **Período** | 2.º Semestre |
+| **Ano** | 1.º Ano |
+| **Ano Letivo** | 2025/2026 |
+| **Aluno** | Gonçalo Lopes Fernandes (N.º 2022148) |
+| **Nota Final** | A aguardar (publicação prevista em julho 2026) |
+
+---
+
+## 📁 Estrutura do Repositório
 
 ```
-├── exercicios/       # Exercícios de revisão
-├── notas/            # Resumos e apontamentos para o teste
-├── tp02/             # Ficheiros do TP02
+petd-aula06-revisao-teste/
+├── notas/             # Resumos e apontamentos para o teste
+│   └── .gitkeep
 └── README.md
 ```
 
-## Recursos
+---
 
-- TP01
-- Avaliação (Teste Prático/Teórico)
+## 📝 Trabalhos Realizados
 
-## Preparação para o teste
+> ⏳ **Aula prevista para 8 de maio de 2026.** Este repositório será atualizado após a realização da aula e do teste.
 
-- [ ] Tipos de dados (int, float, str, bool, NoneType)
-- [ ] Operadores (aritméticos, comparação, lógicos)
-- [ ] Estruturas condicionais (if/elif/else)
-- [ ] Ciclos (for, while, break, continue)
-- [ ] Funções (def, return, parâmetros, *args)
-- [ ] Módulos e importações
-- [ ] Tratamento de erros (try/except)
-- [ ] Ficheiros (leitura/escrita)
-- [ ] Boas práticas (PEP8)
+### 1. Apresentação do TP02
+
+Apresentação e defesa do trabalho prático final (TP02) da UC.
+
+### 2. Teste Prático/Teórico
+
+Teste individual com peso de **40% da nota final**, com nota mínima de 7,5 valores. Abrange todos os conteúdos lecionados ao longo do semestre.
+
+---
+
+## 🧠 Temas Previstos para a Aula
+
+| Tema | Conteúdo |
+|---|---|
+| Apresentação do TP02 | Defesa do trabalho prático final |
+| Boas práticas de código | PEP8, comentários, legibilidade e organização |
+| Revisão geral | Consolidação de todos os conteúdos do semestre |
+| Teste Prático/Teórico | Avaliação individual (40% da nota final) |
+
+---
+
+## 📚 Matéria para o Teste
+
+| Tema | Conteúdos |
+|---|---|
+| Tipos de dados | `int`, `float`, `str`, `bool`, `NoneType` |
+| Operadores | Aritméticos, comparação, lógicos |
+| Estruturas condicionais | `if`, `elif`, `else` |
+| Ciclos | `for`, `while`, `break`, `continue` |
+| Funções | `def`, `return`, parâmetros, valores por omissão, `*args` |
+| Módulos e importações | `import`, criação de módulos próprios |
+| Tratamento de erros | `try`, `except` |
+| Ficheiros | Leitura e escrita com `open()`, `read()`, `write()` |
+| Boas práticas | PEP8, nomes descritivos, indentação, comentários |
+
+---
+
+## 📬 Contacto
+
+**Gonçalo Lopes Fernandes**
+📧 goncalo.fernandes.2022148@my.istec.pt
+
+---
+
+*Repositório académico criado no âmbito do CTeSP em Redes e Sistemas Informáticos — ISTEC Porto, 2025/2026.*
