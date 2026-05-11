@@ -15,8 +15,9 @@
 | **Ano** | 1.º Ano |
 | **Ano Letivo** | 2025/2026 |
 | **Aluno** | Gonçalo Lopes Fernandes (N.º 2022148) |
-| **Nota Final** | A aguardar (publicação prevista em julho 2026) |
-
+| **Nota Final** | A aguardar (publicação prevista em junho) |
+| **Teste Avaliação** | 20 - Vinte valores |
+| **Avaliação Projeto Final** | A aguardar (publicação prevista em junho) |
 ---
 
 ## 📁 Estrutura do Repositório
